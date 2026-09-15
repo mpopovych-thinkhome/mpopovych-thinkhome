@@ -28,6 +28,9 @@ watches for changes, saves snapshots.
 Custom integrations and automation scripts for equipment that has no support
 yet — written on request, remote or on site.
 
+Also open to contracts for full equipment setup and commissioning, and to
+full-time positions.
+
 ### Contact
 
 - Email — m.popovych@thinkhome.io
